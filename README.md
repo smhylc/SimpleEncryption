@@ -1,6 +1,6 @@
 # Welcome to SimpleEncryption!
 
-  ![enter image description here](https://imgur.com/a/74E76Gh)
+  ![enter image description here](https://user-images.githubusercontent.com/39175076/47187257-0fb7c380-d33c-11e8-81f3-9eeb18e956ed.png)
 
  - *This program, written in Java program language, is performing encryption with simple level caesar and atbash algorithms.*
  - What is the atbash algorithm ? --> [enter link description here](https://en.wikipedia.org/wiki/Atbash)
