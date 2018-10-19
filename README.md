@@ -2,7 +2,7 @@
 
   ![enter image description here](https://user-images.githubusercontent.com/39175076/47187257-0fb7c380-d33c-11e8-81f3-9eeb18e956ed.png)
 
- - *This program, written in Java program language, is performing encryption with simple level caesar and atbash algorithms.*
+ - *This program, written in Java programming language, is performing encryption with simple level caesar and atbash algorithms.*
  - What is the atbash algorithm ? --> [enter link description here](https://en.wikipedia.org/wiki/Atbash)
  - What is the ceaser algorithm ? -->[enter link description here](https://en.wikipedia.org/wiki/Caesar_cipher)
 
