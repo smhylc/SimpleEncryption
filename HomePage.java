@@ -117,11 +117,11 @@ public class homePage extends JFrame {
 		contentPane.add(panel_2);
 		panel_2.setLayout(null);
 		
-		JLabel lblEncryptýonType = new JLabel("encryption type");
-		lblEncryptýonType.setBounds(130, 0, 193, 28);
-		lblEncryptýonType.setForeground(new Color(0, 128, 0));
-		lblEncryptýonType.setFont(new Font("Stencil Std", Font.PLAIN, 15));
-		panel_2.add(lblEncryptýonType);
+		JLabel lblEncryptÃ½onType = new JLabel("encryption type");
+		lblEncryptÃ½onType.setBounds(130, 0, 193, 28);
+		lblEncryptÃ½onType.setForeground(new Color(0, 128, 0));
+		lblEncryptÃ½onType.setFont(new Font("Stencil Std", Font.PLAIN, 15));
+		panel_2.add(lblEncryptÃ½onType);
 
 		
 		txtNumber = new JTextField();
@@ -185,7 +185,7 @@ public class homePage extends JFrame {
 			public void actionPerformed(ActionEvent e) 
 			{
 				String userTextAtbash = textEncry.getText().toLowerCase();
-				// .toLowerCase() because ý don't want bug :) 
+				// .toLowerCase() because Ã½ don't want bug :) 
 				
 				operationClass c = new operationClass();
 				
